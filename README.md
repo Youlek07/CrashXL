@@ -2,10 +2,6 @@
 
 # Autor: JULIAN MACHOWSKI 5TP
 
-## Wymagania
-- Java 11 lub nowsza
-- Połączenie z internetem
-
 ## Jak uruchomić program?
 
 Aby uruchomić program, należy wykonać następujące polecenia w terminalu, w folderze projektu (/src):
